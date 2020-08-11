@@ -33,7 +33,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string>https://raw.githubusercontent.com/joseclark95/easylist-pac-privoxy/master/proxy.pac</string>
+			<string>https://raw.githubusercontent.com/blackbriarshaw/easylist-pac-privoxy/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
@@ -42,7 +42,7 @@
 
 	<key>PayloadDisplayName</key>
 	<!-- ADD A NAME FOR YOUR PROFILE -->
-	<string>Jclark's ad blocker</string>
+	<string>Ad blocker</string>
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
